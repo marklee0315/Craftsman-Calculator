@@ -1,0 +1,10 @@
+H:\Code\VisualStudio\CSharp\Calc\bin\Debug\Calc.exe.config
+H:\Code\VisualStudio\CSharp\Calc\bin\Debug\Calc.exe
+H:\Code\VisualStudio\CSharp\Calc\bin\Debug\Calc.pdb
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.MainForm.resources
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.Properties.Resources.resources
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.exe
+H:\Code\VisualStudio\CSharp\Calc\obj\Debug\Calc.pdb
